@@ -103,7 +103,7 @@ Performed exploratory data analysis on the **Indian Premier League (IPL) dataset
 - Visualized insights using charts and graphs
 - Explored factors influencing match outcomes
 
-**The**
+**Tech Stack**
 - Python 
 - P
 - NumPy
