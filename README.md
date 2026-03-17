@@ -93,7 +93,31 @@ An intelligent **medical chatbot** that helps users get basic health guidance by
 
 ---
 
+### 📊 Data Analytics on IPL Dataset
+
+Performed exploratory data analysis on the **Indian Premier League (IPL) dataset** to uncover trends, team performance, and player statistics.
+
+**Key Features**
+- Analyzed match results, player performances, and team statistics
+- Identified top run scorers, wicket takers, and winning patterns
+- Visualized insights using charts and graphs
+- Explored factors influencing match outcomes
+
+**The**
+- Python 
+- P
+- NumPy
+- Matplotlib / Seaborn
+- Jupyter N
+
+**Insights Generated**
+- Team-wise win percentage analysis
+- Top performing batsmen and bowlers
+- Toss impact on match results
+- Venue-based performance analysis
 ### Responsive Registration Form
+
+---
 
 A responsive registration form with validation.
 
