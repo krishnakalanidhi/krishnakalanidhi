@@ -70,10 +70,6 @@ A smart road safety system that detects potholes in real time and alerts drivers
 
 ---
 
-### Cricket Live Scoreboard Website
-
-A web-based scoreboard application inspired by ESPN Cricinfo.
-
 **Key Features**
 
 - Displays **live match scores and updates**
@@ -105,6 +101,3 @@ A responsive registration form with validation.
 
 ---
 
-## Contribution Graph
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME)
