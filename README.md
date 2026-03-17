@@ -1,4 +1,4 @@
-# Krishna
+# Krishna Kalanidhi
 
 Full-Stack Developer focused on building **scalable and user-friendly web applications** using modern technologies like **React, Node.js, JavaScript, and MongoDB**.
 
