@@ -105,6 +105,14 @@ A responsive registration form with validation.
 
 ---
 
+## Current Focus
+
+- Seeking **Software Engineering internships or full-time opportunities**
+- Improving **system scalability, containerization, and DevOps workflows**
+- Practicing **Data Structures & Algorithms**
+
+---
+
 ## GitHub Stats
 
 ![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
