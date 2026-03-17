@@ -105,13 +105,6 @@ A responsive registration form with validation.
 
 ---
 
-
-## GitHub Stats
-
-![Krishna's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
-
----
-
 ## Contribution Graph
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME)
