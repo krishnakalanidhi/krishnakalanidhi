@@ -105,13 +105,6 @@ A responsive registration form with validation.
 
 ---
 
-## Current Focus
-
-- Seeking **Software Engineering internships or full-time opportunities**
-- Improving **system scalability, containerization, and DevOps workflows**
-- Practicing **Data Structures & Algorithms**
-
----
 
 ## GitHub Stats
 
