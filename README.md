@@ -70,12 +70,26 @@ A smart road safety system that detects potholes in real time and alerts drivers
 
 ---
 
-**Key Features**
+### 🩺 Medical Bot (AI Healthcare Assistant)
 
-- Displays **live match scores and updates**
-- Built using **HTML, CSS, JavaScript**
-- Responsive design for **mobile and desktop**
-- Real-time score display system
+An intelligent **medical chatbot** that helps users get basic health guidance by analyzing symptoms and suggesting possible conditions.
+
+**Key Features**
+- Symptom-based disease prediction
+- AI-powered chatbot interaction
+- Provides basic health recommendations
+- Simple and user-friendly interface
+
+**Tech Stack**
+- Python
+- Machine Learning
+- NLP
+- Flask / Node.js (if used)
+- HTML, CSS, JavaScript
+
+**Impact**
+- Helps users understand possible health conditions based on symptoms
+- Demonstrates practical use of AI in healthcare assistance
 
 ---
 
